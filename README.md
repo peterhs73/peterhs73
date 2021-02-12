@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Peter, and I am a PhD candidate in physical chemistry. Aside from research, I build random software, design mechanical keyboard, and make blender animations. Check out [RefParse](https://github.com/peterhs73/RefParse), [xBan](https://github.com/peterhs73/xBan), and [Franky65](https://github.com/peterhs73/Franky65)!
+
+![Linkedin](https://img.shields.io/badge/-petersun73-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petersun73/)
+![GitHub](https://img.shields.io/github/followers/peterhs73?label=follow&style=social&link=https://github.com/peterhs73)
+
+
 <!--
 **peterhs73/peterhs73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
